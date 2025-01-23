@@ -408,8 +408,16 @@
       case 'about':
         output.textContent += "\nHi! I'm Syntiche Attoh, a passionate developer who loves creating interactive and visually appealing web applications  and mobile applicationsand also which loves learn.";
         break;
-      case 'projects':
-        output.textContent += "\nMy Projects:\n- Portfolio Website: A showcase of my work and skills.\n- E-commerce App: An online store built with React and Node.js.\n- Chat App: A real-time chat application using WebSocket.";
+        case 'projects':
+        output.innerHTML += `
+          \nMy Projects:
+          <br>
+           <strong>Links:</strong>
+   <ul>
+    <li><a href="https://github.com/desireeDev" target="_blank">GitHub: https://github.com/desireeDev</a></li>
+    <li><a href="https://linkedin.com/in/yourname" target="_blank">LinkedIn: linkedin.com/in/yourname</a></li>
+     </ul>
+        `;
         break;
       case 'skills':
         output.textContent += "\nMy Skills:\n- HTML, CSS, JavaScript\n- React, Vue.js\n- Node.js, Express\n- Laravel, PHP";
@@ -466,7 +474,6 @@
             </div>
         </div>
         <!-- Contact End -->
-
         <!-- Footer Start -->
         <div class="footer wow fadeIn" data-wow-delay="0.3s">
             <div class="container-fluid">
