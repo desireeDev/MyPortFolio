@@ -22,7 +22,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #23c4f0;
+    color: #1877F2;
     outline: none;
     text-decoration: none;
 }
@@ -42,7 +42,7 @@ a:focus {
     font-weight: 600;
     letter-spacing: 1px;
     color: #ffffff;
-    background: #2ebce3;
+    background: #1877F2;
     border: 2px solid transparent;
     border-radius: 0;
     box-shadow: inset 0 0 0 50px #127894;
@@ -52,10 +52,10 @@ a:focus {
 }
 
 .btn:hover {
-    color: #2ebce3;
+    color: #1877F2;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #2ebce3;
-    border-color: #2ebce3;
+    box-shadow: inset 0 0 0 0 #1877F2;
+    border-color: #1877F2;
 }
 
 #loader {
@@ -89,7 +89,7 @@ a:focus {
     width: 45px;
     height: 45px;
     border: 5px solid #dddddd;
-    border-top: 5px solid #2ebce3;
+    border-top: 5px solid #1877F2;
     border-radius: 50%;
     -webkit-animation: spin 2s linear infinite;
     animation: spin 2s linear infinite;
@@ -186,7 +186,7 @@ a:focus {
     }
     
     .navbar.nav-sticky .navbar-brand {
-        color: #18bbe8;
+        color: #1877F2;
     }
 
     .navbar-light .navbar-nav .nav-link,
@@ -209,7 +209,7 @@ a:focus {
     
     .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
     .navbar-light.nav-sticky .navbar-nav .nav-link.active {
-        color: #2ebce3;
+        color: #1877F2;
     }
 }
 
@@ -220,7 +220,7 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #2ebce3;
+        color: #1877F2;
     }
     
     .navbar .navbar-nav {
@@ -437,7 +437,7 @@ a:focus {
     top: 11px;
     right: 0;
     left: -30px;
-    background: #5298ed;
+    background: #1877F2;
     z-index: -1;
 }
 
@@ -448,7 +448,7 @@ a:focus {
     height: 3px;
     top: 11px;
     left: 3px;
-    background: #13b1d8;
+    background: #1877F2;
     z-index: 1;
 }
 
@@ -530,7 +530,7 @@ a:focus {
 
 .about .progress .progress-bar {
     width: 0px;
-    background: #0bd8d8;
+    background: #1877F2;
     border-radius: 10px;
     transition: 2s;
 }
@@ -563,7 +563,7 @@ a:focus {
     content: '';
     position: absolute;
     width: 2px;
-    background: #4589dd;
+    background: #1877F2;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -595,7 +595,7 @@ a:focus {
     top: 48px;
     right: -8px;
     background: #ffffff;
-    border: 2px solid #34bfd7;
+    border: 2px solid #1877F2;
     border-radius: 16px;
     z-index: 1;
 }
@@ -627,7 +627,7 @@ a:focus {
     top: 44px;
     font-size: 16px;
     font-weight: 600;
-    color: #0ecbf0;
+    color: #1877F2;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
@@ -741,7 +741,7 @@ a:focus {
 }
 
 .service .service-item:hover {
-    box-shadow: inset 800px 0 0 0 #2ebce3;
+    box-shadow: inset 800px 0 0 0 #1877F2;
 }
 
 .service .service-icon {
@@ -751,14 +751,14 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid #2ebce3;
+    border: 1px solid #1877F2;
     background: #ffffff;
 }
 
 .service .service-icon i {
     position: relative;
     font-size: 60px;
-    color: #2ebce3;
+    color: #1877F2;
     transition: .3s;
 }
 
@@ -826,10 +826,10 @@ a:focus {
     font-size: 14px;
     font-weight: 600;
     color: #ffffff;
-    background: #2ebce3;
+    background: #1877F2;
     border: 2px solid transparent;
     border-radius: 0;
-    box-shadow: inset 0 0 0 50px #2ebce3;
+    box-shadow: inset 0 0 0 50px #1877F2;
     transition: ease-out 0.3s;
     -webkit-transition: ease-out 0.3s;
     -moz-transition: ease-out 0.3s;
@@ -837,9 +837,9 @@ a:focus {
 
 .portfolio #portfolio-filter li:hover,
 .portfolio #portfolio-filter li.filter-active {
-    color: #2ebce3;
+    color: #1877F2;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #2ebce3;
+    box-shadow: inset 0 0 0 0 #1877F2;
     border-color: #2ebce3;
 }
 
@@ -902,10 +902,10 @@ a:focus {
 }
 
 .portfolio .portfolio-item:hover a.btn {
-    color: #2ebce3;
+    color: #1877F2;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #2ebce3;
-    border-color: #2ebce3;
+    box-shadow: inset 0 0 0 0 #1877F2;
+    border-color: #1877F2;
 }
 
 
@@ -917,7 +917,7 @@ a:focus {
     width: 100%;
     margin: 45px 0;
     padding: 90px 0;
-    background: #2ebce3;
+    background: #1877F2;
 }
 
 .banner .container {
@@ -954,7 +954,7 @@ a:focus {
 
 .banner .banner-text .btn {
     margin-top: 15px;
-    color: #2ebce3;
+    color: #1877F2;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -967,335 +967,6 @@ a:focus {
 }
 
 
-/*******************************/
-/********* Pricing CSS *********/
-/*******************************/
-.price {
-    position: relative;
-    width: 100%;
-    padding: 45px 0 15px 0;
-}
-
-.price .row {
-    padding: 0 15px;
-}
-
-.price .col-md-4 {
-    padding: 0;
-}
-
-.price .price-item {
-    position: relative;
-    margin-bottom: 30px;
-    background: #ffffff;
-}
-
-.price .featured-item {
-    box-shadow: 0 0 30px rgba(0, 0, 0, .2);
-    z-index: 1;
-}
-
-.price .price-header,
-.price .price-body,
-.price .price-footer {
-    position: relative;
-    text-align: center;
-}
-
-.price .price-header {
-    padding: 45px 0 30px 0;
-    color: #414141;
-}
-
-.price .price-item.featured-item .price-header {
-    color: #2ebce3;
-}
-
-.price .price-title h2 {
-    font-size: 25px;
-    font-weight: 400;
-    text-transform: uppercase;
-}
-
-.price .price-prices h2 {
-    font-size: 45px;
-    font-weight: 700;
-    margin-left: 10px;
-}
-
-.price .price-prices h2 small {
-    position: absolute;
-    font-size: 18px;
-    font-weight: 400;
-    margin-top: 9px;
-    margin-left: -12px;
-}
-
-.price .price-prices h2 span {
-    margin-left: 1px;
-    font-size: 18px;
-    font-weight: 400;
-}
-
-.price .price-item.featured-item h2 {
-    color: #2ebce3;
-}
-
-.price .price-body {
-    padding: 0 0 20px 0;
-}
-
-.price .price-description ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-}
-
-.price .price-description ul li {
-    padding: 0 0 20px 0;
-}
-
-.price .price-item .price-action {
-    padding-bottom: 45px;
-}
-
-.price .price-item .price-action .btn {
-    color: #ffffff;
-    background: #414141;
-    box-shadow: inset 0 0 0 50px #414141;
-}
-
-.price .price-item .price-action .btn:hover {
-    color: #414141;
-    background: transparent;
-    box-shadow: inset 0 0 0 0 #414141;
-    border-color: #414141;
-}
-
-.price .price-item.featured-item .price-action .btn {
-    color: #ffffff;
-    background: #2ebce3;
-    box-shadow: inset 0 0 0 50px #2ebce3;
-}
-
-.price .price-item.featured-item .price-action .btn:hover {
-    color: #2ebce3;
-    background: transparent;
-    box-shadow: inset 0 0 0 0 #2ebce3;
-    border-color: #2ebce3;
-}
-
-
-/*******************************/
-/*********** Team CSS **********/
-/*******************************/
-.team {
-    position: relative;
-    width: 100%;
-    padding: 45px 0 15px 0;
-}
-
-.team .team-item {
-    position: relative;
-    background: #ffffff;
-    margin-bottom: 30px;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    box-shadow: inset 0 0 0 0 transparent;
-    transition: ease-out 0.5s;
-}
-
-.team .team-img {
-    position: relative;
-    width: 50%;
-    overflow: hidden;
-}
-
-.team .team-img img {
-    position: relative;
-    width: 100%;
-    transition: .5s;
-}
-
-.team .team-text {
-    position: relative;
-    width: 50%;
-    padding: 0 30px;
-}
-
-.team .team-text h2 {
-    color: #2ebce3;
-    font-size: 18px;
-    font-weight: 600;
-    margin-bottom: 5px;
-    transition: 1s;
-}
-
-.team .team-text h4 {
-    font-size: 14px;
-    font-weight: 600;
-    margin-bottom: 15px;
-    transition: 1s;
-}
-
-.team .team-text p {
-    margin-bottom: 20px;
-    transition: 1s;
-}
-
-.team .team-social {
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-}
-
-.team .team-social a.btn {
-    width: 35px;
-    height: 35px;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 14px;
-    font-weight: normal;
-    margin-right: 5px;
-}
-
-.team .team-item:hover {
-    box-shadow: inset 800px 0 0 0 #2ebce3;
-}
-
-.team .team-item:hover .team-img img {
-    transform: scale(1.2);
-}
-
-.team .team-item:hover .team-text h2,
-.team .team-item:hover .team-text h4,
-.team .team-item:hover .team-text p {
-    color: #ffffff;
-}
-
-.team .team-item:hover .team-social a.btn {
-    background: #ffffff;
-}
-
-.team .team-item:hover .team-social a.btn:hover {
-    border-color: #ffffff;
-}
-
-@media(max-width: 575.98px) {
-    .team .team-text {
-        padding: 0 15px;
-    }
-    
-    .team .team-text h2 {
-        font-size: 16px;
-        margin-bottom: 0;
-    }
-
-    .team .team-text h4 {
-        margin-bottom: 5px;
-    }
-
-    .team .team-text p {
-        font-size: 14px;
-        line-height: 18px;
-        margin-bottom: 10px;
-    }
-}
-
-
-/*******************************/
-/******* Testimonial CSS *******/
-/*******************************/
-.testimonial {
-    position: relative;
-    margin: 45px 0;
-    padding: 90px 0;
-    background: #2ebce3;
-}
-
-.testimonial .container {
-    max-width: 900px;
-}
-
-.testimonial .testimonial-icon {
-    margin-bottom: 45px;
-    text-align: center;
-}
-
-.testimonial .testimonial-icon i {
-    font-size: 60px;
-    color: rgba(256, 256, 256, .5);
-}
-
-.testimonial .testimonial-item {
-    position: relative;
-    margin: 0 15px;
-    text-align: center;
-}
-
-.testimonial .testimonial-img {
-    position: relative;
-    margin-bottom: 15px;
-    z-index: 1;
-}
-
-.testimonial .testimonial-item img {
-    margin: 0 auto;
-    width: 120px;
-    padding: 10px;
-    border: 5px dotted #ffffff;
-    border-radius: 100px;
-}
-
-.testimonial .testimonial-text {
-    position: relative;
-    margin-top: -70px;
-    padding: 65px 35px 30px 35px;
-    text-align: center;
-    background: #ffffff;
-    border-radius: 500px;
-}
-
-.testimonial .testimonial-item p {
-    font-size: 18px;
-    font-style: italic;
-}
-
-.testimonial .testimonial-text h3 {
-    color: #EF233C;
-    font-size: 18px;
-    font-weight: 600;
-    margin-bottom: 10px;
-}
-
-.testimonial .testimonial-text h4 {
-    color: #666666;
-    font-size: 14px;
-    margin-bottom: 0;
-}
-
-.testimonial .owl-dots {
-    margin-top: 15px;
-    text-align: center;
-}
-
-.testimonial .owl-dot {
-    display: inline-block;
-    margin: 0 5px;
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    background: rgba(256, 256, 256, .5);
-}
-
-.testimonial .owl-dot.active {
-    background: #ffffff;
-}
-
 
 /*******************************/
 /********* Contact CSS *********/
@@ -1304,7 +975,7 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 45px 0;
-    background: #2ebce3;
+    background: #1877F2;
 }
 
 .contact .container-fluid {
@@ -1315,7 +986,7 @@ a:focus {
 .contact .contact-form {
     position: relative;
     padding: 90px 0 90px 45px;
-    background: #2ebce3;
+    background: #1877F2;
 }
 
 .contact .contact-form input {
@@ -1349,7 +1020,7 @@ a:focus {
 
 .contact .contact-form .btn {
     margin-top: 35px;
-    color: #2ebce3;
+    color: #1877F2;
     background: #ffffff;
     box-shadow: inset 0 0 0 50px #ffffff;
 }
@@ -1420,7 +1091,7 @@ a:focus {
   .cv-download .btn {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #1877F2;
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
@@ -1429,7 +1100,7 @@ a:focus {
 }
 
 .cv-download .btn:hover {
-    background-color: #0056b3;
+    background-color: #1877F2;
 }
 
 
@@ -1439,7 +1110,7 @@ a:focus {
 .footer {
     position: relative;
     margin-top: 45px;
-    background: #2ebce3;
+    background: #1877F2;
 }
 
 .footer .container-fluid {
@@ -1574,7 +1245,7 @@ a:focus {
   
   .section-header p {
     font-size: 16px;
-    color: #6c63ff;
+    color: #1877F2;
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-bottom: 10px;
@@ -1587,7 +1258,7 @@ a:focus {
   }
   
   .tech-card {
-    background: linear-gradient(135deg, #6683c7, #127894);
+    background: linear-gradient(135deg, #1877F2, #127894);
     color: #fff;
     padding: 20px;
     border-radius: 8px;
@@ -1634,7 +1305,7 @@ a:focus {
   .section-header p {
     font-size: 14px;
     text-transform: uppercase;
-    color: #6c63ff;
+    color: #1877F2;
     letter-spacing: 1px;
     animation: fadeInDown 1s ease;
   }
@@ -1662,13 +1333,13 @@ a:focus {
   .service-card:hover {
     transform: translateY(-10px) scale(1.05);
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
-    background-color: #6c63ff;
+    background-color: #1877F2;
     color: #ffffff;
   }
   
   .service-card .icon {
     font-size: 40px;
-    color: #6c63ff;
+    color: #1877F2;
     margin-bottom: 15px;
     transition: color 0.3s ease, transform 0.3s ease;
   }
