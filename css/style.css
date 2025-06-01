@@ -1412,3 +1412,48 @@ a:focus {
     }
   }
   
+  .project-card {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover .card {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.project-card:hover .card-title {
+    color: #007BFF; /* Couleur au survol du titre */
+}
+
+.card {
+    border: none;
+    overflow: hidden;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.project-link {
+    font-weight: bold;
+    color: #007BFF;
+    margin-top: 10px;
+    display: inline-block;
+}
+.learning-card {
+    transition: transform 0.3s ease;
+}
+.learning-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1);
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-radius: 0.5rem 0.5rem 0 0;
+}
